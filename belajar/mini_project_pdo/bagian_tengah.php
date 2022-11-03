@@ -1,0 +1,1 @@
+<h1 id="h1-home" class="text-center text-white">CRUD PRODUK BARANG</h1>
